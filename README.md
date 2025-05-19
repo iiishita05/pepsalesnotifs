@@ -1,4 +1,4 @@
- 1. Assumptions
+1. Assumptions
 The following are assumptions we're making in this notification system:
 
 User-Related
